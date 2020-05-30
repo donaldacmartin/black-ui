@@ -1,4 +1,8 @@
 export const GET_EPISODE_LIST = 'GET_EPISODE_LIST';
 export const PLAY_EPISODE = 'PLAY_EPISODE';
 export const STOP_PLAYBACK = 'STOP_PLAYBACK';
+
+export const GET_BROADCAST_LIST = 'GET_BROADCAST_LIST';
+export const GET_STATION_LIST = 'GET_STATION_LIST';
+
 export const LOG_ERROR = 'LOG_ERROR';
